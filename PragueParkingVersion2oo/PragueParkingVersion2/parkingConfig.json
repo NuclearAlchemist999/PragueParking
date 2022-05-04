@@ -1,0 +1,17 @@
+﻿{
+  "NumberOfSpots": 100,
+  "SpotSize": 4,
+  "VehicleTypes": [ "Car", "MC" ],
+  "CarPrice": 20,
+  "McPrice": 10
+}
+
+
+
+// Change the number of parking spots here or size and then go to the console menu and choose option 9
+// if you want to change the settings and keep the data or 10 if you want to reset the settings.
+// If you choose option 9 you can only decrease the size on current spots or have them as they are but
+// only if they are empty. Only new spots can have a bigger space. You cannot remove current spots if 
+// they have any vehicle. Price or vehicle types however does not have to be applied in the console.
+// Just set the values here and they will change automatically. For instance if you erase MC here, you
+// cannot add any MC in the program. Change the values here before you start the program.

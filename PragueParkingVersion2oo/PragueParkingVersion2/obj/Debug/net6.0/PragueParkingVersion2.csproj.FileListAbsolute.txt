@@ -1,0 +1,17 @@
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\bin\Debug\net6.0\PragueParkingVersion2.exe
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\bin\Debug\net6.0\PragueParkingVersion2.deps.json
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\bin\Debug\net6.0\PragueParkingVersion2.runtimeconfig.json
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\bin\Debug\net6.0\PragueParkingVersion2.dll
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\bin\Debug\net6.0\PragueParkingVersion2.pdb
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\obj\Debug\net6.0\PragueParkingVersion2.csproj.AssemblyReference.cache
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\obj\Debug\net6.0\PragueParkingVersion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\obj\Debug\net6.0\PragueParkingVersion2.AssemblyInfoInputs.cache
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\obj\Debug\net6.0\PragueParkingVersion2.AssemblyInfo.cs
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\obj\Debug\net6.0\PragueParkingVersion2.csproj.CoreCompileInputs.cache
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\obj\Debug\net6.0\PragueParkingVersion2.csproj.CopyComplete
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\obj\Debug\net6.0\PragueParkingVersion2.dll
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\obj\Debug\net6.0\refint\PragueParkingVersion2.dll
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\obj\Debug\net6.0\PragueParkingVersion2.pdb
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\obj\Debug\net6.0\PragueParkingVersion2.genruntimeconfig.cache
+C:\Users\Lobson\Desktop\Prague Parking 2.0\PragueParkingVersion2oo\PragueParkingVersion2\obj\Debug\net6.0\ref\PragueParkingVersion2.dll
